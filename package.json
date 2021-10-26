@@ -1,0 +1,16 @@
+{
+  "name": "codingtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "titleCase.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
